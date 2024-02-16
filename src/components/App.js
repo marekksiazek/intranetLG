@@ -11,6 +11,20 @@ function App() {
       <aside className="linkMenu">
         <LinkMenu />
       </aside>
+      <section className="mainFrame">
+        <div className="mainSystems">
+
+        </div>
+        <div className="mainSectionWrapper">
+          <div className="news">
+
+          </div>
+          <div className="widgets">
+
+          </div>
+        </div>
+
+      </section>
       
     </>
   );
