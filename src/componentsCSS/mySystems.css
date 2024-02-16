@@ -1,0 +1,43 @@
+.mySystemWrapper {
+    width: 15vw;
+    height: 30vh;
+    background-color: #A40033;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    border-radius: 25px;
+}
+
+.iconSystemWrapper {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.titleInMySystem{
+    color: #fbfbf8;
+    font-size: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+    font-weight: bold;
+}
+
+.system{
+    width: 33%;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.systemIcon{
+    max-height: 31px;
+    max-width: 31px;
+    margin-bottom: 1rem;
+}
+
+.systemInfo{
+    color: #fbfbf8;
+    font-size: 1.3rem;
+    font-weight: bold;
+}

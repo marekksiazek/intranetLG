@@ -3,6 +3,9 @@ import Buttons from './Buttons';
 import Header from './Header';
 import LinkMenu from './LinkMenu';
 import MainSystems from './MainSystems';
+import MySystems from './MySystems';
+import News from './News';
+import UserInfo from './UserInfo';
 
 function App() {
   return (
@@ -22,8 +25,11 @@ function App() {
             </div>
             <div className="mainSectionWrapper">
               <div className="news">
+                <News />
               </div>
               <div className="widgets">
+                <UserInfo />
+                <MySystems />
               </div>
             </div>
           </section>

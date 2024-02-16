@@ -1,0 +1,40 @@
+.userInfoWrapper{
+    background-color: #A40033;
+    margin-top: 12rem;
+    margin-left: 2rem;
+    padding: 1rem;
+    height: 20vh;
+    width: 15vw;
+    display: flex;
+    align-items: center;
+    border-radius: 25px;
+}
+
+.info{
+    color: #fbfbf8;
+    line-height: 3rem;
+}
+
+.name{
+    font-size: 1.5rem;
+}
+
+.maNumber{
+    font-size: 1.3rem;
+}
+
+.ip{
+    font-size: 1.3rem;
+}
+
+.department{
+    font-size: 1.3rem;
+    text-transform: uppercase;
+}
+
+.userInfoPhoto{
+    margin-left: auto;
+    max-width: 100px;
+    max-height: 100px;
+    border-radius: 50px;
+}

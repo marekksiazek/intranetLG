@@ -7,9 +7,6 @@ function MainSystems(){
                 <p className="title">Main</p>
                 <p className="title">Systems:</p>
             </div>
-            <div className="systems">
-
-            </div>
         </div>
     );
 }

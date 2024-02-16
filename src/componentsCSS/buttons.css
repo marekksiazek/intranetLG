@@ -17,6 +17,10 @@
     align-items: center;
 }
 
+.iconLinks:hover {
+    background-color: #6b6b6b;
+}
+
 .icon {
     max-height: 31px;
     max-width: 31px;

@@ -1,0 +1,16 @@
+.newsWrapper {
+    margin-top: 1.8rem;
+    margin-bottom: 1.8rem;
+}
+
+.newsTitle{
+    font-size: 3rem;
+    color: #6b6b6b;
+}
+
+.newsTitle::first-letter{
+    color: #A40033;
+}
+
+
+

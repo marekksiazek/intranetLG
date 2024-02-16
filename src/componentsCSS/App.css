@@ -1,3 +1,5 @@
+@font-face { font-family: LGSmart; src: url('..\\src\\LG_Smart_UI\\LG_Smart_UI-Regular.ttf'); }
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -10,6 +12,7 @@ body {
   height: 100vh;
   margin: 0 auto;
   background-color: #FCFBF8;
+  font-family: LGSmart, sans-serif;
 }
 
 .main {
@@ -18,6 +21,10 @@ body {
 
 .linkMenu{
   margin-right: 3rem;
+}
+
+.mainSectionWrapper{
+  display: flex;
 }
 
 
