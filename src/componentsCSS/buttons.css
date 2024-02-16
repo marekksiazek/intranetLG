@@ -1,0 +1,30 @@
+.iconLinksWrapper{
+    display: flex;
+    margin-top: 2rem;
+    width: 60vw;
+    justify-content: space-between;
+}
+
+.iconLinks {
+    background-color: #A40033;
+    width: 74px;
+    height: 74px;
+    border-radius: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    max-height: 31px;
+    max-width: 31px;
+    margin-bottom: 1rem;
+}
+
+a {
+    text-decoration: none;
+    color: #FbFbF8;
+    font-weight: bold;
+}

@@ -12,5 +12,13 @@ body {
   background-color: #FCFBF8;
 }
 
+.main {
+  display: flex;
+}
+
+.linkMenu{
+  margin-right: 3rem;
+}
+
 
 

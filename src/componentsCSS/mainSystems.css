@@ -1,0 +1,14 @@
+.titleWrapper {
+    display: flex;
+}
+
+.title {
+    font-size: 3rem;
+    padding-right: 1rem;
+    font-weight: bold;
+    color: #6b6b6b;
+}
+
+.title::first-letter{
+    color: #A40033;
+}

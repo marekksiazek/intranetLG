@@ -43,3 +43,9 @@
     color: #FCFCF8;
     cursor: pointer;
 }
+
+.searchBtn:hover {
+    background-color: #A40033;
+    border: 1px solid #A40033;
+    color: #FCFCF8;
+}
