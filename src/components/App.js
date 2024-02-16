@@ -1,5 +1,6 @@
 import '../componentsCSS/App.css';
 import Header from './Header';
+import LinkMenu from './LinkMenu';
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
         <Header />
       </section>
       <aside className="linkMenu">
-
+        <LinkMenu />
       </aside>
       
     </>
